@@ -13,7 +13,7 @@ public class MemosTest {
 
     private static WebDriver driver;
     private static WebDriverWait wait;
-    private static final String BASE_URL = "http://13.60.192.70:5231"; 
+    private static final String BASE_URL = "http://13.60.192.70:5230"; 
     private static final String USERNAME = "abdullahmemos";
     private static final String PASSWORD = "abdullahmemos";
 
